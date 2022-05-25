@@ -1,4 +1,10 @@
-# Base layout template with Gulp, SCSS and Stylelint
-1. Create a repo using this template
-1. Replace `<your_account>` and `<repo_name>` with your Github username and the new repo name
-    - [DEMO LINK](https://<your_account>.github.io/<repo_name>/)
+## Base layout template using such technologies:
+- HTML5;
+- SASS/SCSS;
+- BEM-methodology;
+- npm tool.
+
+**This site was built using [GitHub Pages](https://iwanttosmile4u.github.io/mybike-landing/)**
+
+**Layout design [here](https://www.figma.com/file/Ic3SlZjkATYaS7uTifZAIk/BIKE?node-id=0%3A1)**
+
